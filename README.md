@@ -1,0 +1,2 @@
+# PlayFrameworkMemo
+PlayFrameworkでものを作った時のメモを投げていく
