@@ -1,2 +1,2 @@
-# PlayFrameworkMemo
-PlayFrameworkでものを作った時のメモを投げていく
+# MyTechMemo
+メモを投稿
